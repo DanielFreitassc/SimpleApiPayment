@@ -66,7 +66,7 @@ esteja na sua posição.
 ( V ) A ordenação por Troca pode resolver qualquer situação de ordenação, contudo dentre os
 algoritmos vistos ele é o único que sempre irá passar por todos os itens, geralmente mais de
 uma vez.
-( V ) A ordenação por Seleção busca sempre o maior/menor valor e o coloca na última posição ao
+( F ) A ordenação por Seleção busca sempre o maior/menor valor e o coloca na última posição ao
 iniciar a ordenação;
 ( F ) A ordenação por Inserção utiliza recursividade no seu código fonte.
 
