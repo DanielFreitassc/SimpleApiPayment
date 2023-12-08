@@ -22,6 +22,7 @@ ____
 ### 5 Se uma lista é um objeto genérico podendo ser multi-utilizado descreva duas formas de subdivisões das listas vistas em sala de aula e as diferencie conceitualmente?
 
 R: Fila o primeiro sendo ela FIFO(First I, First Out) primeiro a entra primeiro a sair e é implementada quando há a necessidade de percorrer uma lista em sua ordem.
+R: Pilha sendo ela LIFO(Last in First Out) Ultimo a entrar primeiro a sair .
 ___
 ### 6 Pensando nas estruturas lineares, imagine que você esteja fazendo um bolo, quais das estruturas vistas em sala você utilizaria para armazenar as instruções do bolo? Por quê?
 
