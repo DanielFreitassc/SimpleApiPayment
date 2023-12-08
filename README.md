@@ -75,6 +75,28 @@ ___
 ### 13 Considerando o conteúdo visto em sala sobre recursividade, o que significa dizer que um problema é trivial?
 R: Quando um problema não pode ser reduzido ele é um problema trivial
 ___
-### 14 Quais são as duas partes de um algoritmo recursivo e o que eles fazem?
-R: Base de Recursão: Que resolve os problemas triviais diretamente, Passo de Recursão : Que cria uma nova recursão buscando o problema trivial.
+. Dentre os algoritmos de ordenação vistos em sala de aula, vimos quatro técnicas de ordenação,
+relacione as imagens com as técnicas vistas (1 – Troca, 2 – Seleção, 3 – Inserção, 4 –
+Intercalação).
+### 15 Visando os algoritmos vistos em sala de aula, explique:
+a. Recursividade : A recursividade é um conceito em programação onde uma função chama a si mesma para resolver problemas dividindo-os em subproblemas menores. Geralmente, há um caso base que indica quando a recursão deve parar.
+b. Busca Binária : A busca binária é um algoritmo eficiente para encontrar um elemento em uma lista ordenada. Ela divide repetidamente a lista pela metade, comparando o valor alvo com o elemento no meio e reduzindo o espaço de busca pela metade a cada iteração.
+c. Busca Linear : A busca linear é um método simples de encontrar um elemento em uma lista percorrendo-a sequencialmente até encontrar o elemento desejado. Retorna a posição do elemento se encontrado, caso contrário, indica que o elemento não foi encontrado.
+d. Algoritmos Iterativos : Algoritmos iterativos usam loops para realizar tarefas repetitivas. Eles são diretos e não envolvem chamadas recursivas. Exemplos incluem a busca linear e a busca binária, onde a lista é percorrida de forma iterativa para encontrar um elemento.
+### 16 Dentre os algoritmos de ordenação vistos em sala de aula, vimos quatro técnicas de ordenação, relacione as imagens com as técnicas vistas (1 – Troca, 2 – Seleção, 3 – Inserção, 4 – Intercalação).
+a. (3) ![image](https://github.com/DanielFreitassc/Estrutura_de_dados_prova/assets/129224303/3b8f7ee2-9798-43f2-92b0-3f5742208bf1)
+
+
+b. (4) ![image](https://github.com/DanielFreitassc/Estrutura_de_dados_prova/assets/129224303/79fcce38-0dae-4390-92b0-f16a82c74505)
+
+c. (1) ![image](https://github.com/DanielFreitassc/Estrutura_de_dados_prova/assets/129224303/f04d6ea9-e312-4c9c-af52-40d3d9a65dda)
+
+
+d. (4) ![image](https://github.com/DanielFreitassc/Estrutura_de_dados_prova/assets/129224303/e3a76ca0-3314-4e81-84e6-841f20af2a36)
+
 ___
+
+
+
+
+
