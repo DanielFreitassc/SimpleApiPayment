@@ -39,3 +39,26 @@ métodos e os atributos da classe abstrata.
 ( V ) A herança ajuda a diminuir e organizar o código fonte. 
 ```
 ___
+
+### 8 Qual a diferença entre FIFO e LIFO?
+
+R: 
+
+Em FIFO(First In, First Out), o primeiro elemento a entrar é o primeiro a sair, seguindo uma ordem cronológica. 
+
+Em LIFO(Last In, First Out), o último elemento a entrar é o primeiro a sair, seguindo uma ordem inversa à ordem de entrada.
+___
+
+### 9 As árvores são objetos que organizam de forma hierárquica os dados de forma pré-determinada, porém, temos diferenças das árvores computacionais para as árvores da natureza, sendo assim, do que as árvores computacionais são compostas?
+R: Raiz , Nós , Folhas
+___
+
+### 10 O que significa dizer que uma árvore é binária?
+R: Que ela tem obrigatoriamente apenas dois filhos para cada nós.
+___
+### 11 Na busca binária temos uma eficiência em relação à busca linear, contudo nesse cenário temos uma obrigatoriedade, qual é essa obrigatoriedade e porque ela se faz necessária?
+R: O vetor que iremos percorrer esteja ordenado, sem isso não é posssível implementar uma busca binária.
+___
+### 12 Para os métodos de ordenação temos algumas regras que precisam ser seguidas, dentre as regras vistas em sala de aula responda verdadeiro (V) ou (F) para as afirmações a seguir:
+R: 
+___
