@@ -95,8 +95,10 @@ c. (1) ![image](https://github.com/DanielFreitassc/Estrutura_de_dados_prova/asse
 d. (4) ![image](https://github.com/DanielFreitassc/Estrutura_de_dados_prova/assets/129224303/e3a76ca0-3314-4e81-84e6-841f20af2a36)
 
 ___
+### 17 Considerando o conceito de linguagem, existem três características presentes em todas as linguagens, quais são elas?
 
-
+R: Sintaxe, Semântica, Pragmática
+___
 
 
 
