@@ -60,5 +60,21 @@ ___
 R: O vetor que iremos percorrer esteja ordenado, sem isso não é posssível implementar uma busca binária.
 ___
 ### 12 Para os métodos de ordenação temos algumas regras que precisam ser seguidas, dentre as regras vistas em sala de aula responda verdadeiro (V) ou (F) para as afirmações a seguir:
-R: 
+```
+( F ) A ordenação por Intercalação obriga que o primeiro item da lista que se deseja ordenar já
+esteja na sua posição.
+( V ) A ordenação por Troca pode resolver qualquer situação de ordenação, contudo dentre os
+algoritmos vistos ele é o único que sempre irá passar por todos os itens, geralmente mais de
+uma vez.
+( V ) A ordenação por Seleção busca sempre o maior/menor valor e o coloca na última posição ao
+iniciar a ordenação;
+( F ) A ordenação por Inserção utiliza recursividade no seu código fonte.
+
+``` 
+___
+### 13 Considerando o conteúdo visto em sala sobre recursividade, o que significa dizer que um problema é trivial?
+R: Quando um problema não pode ser reduzido ele é um problema trivial
+___
+### 14 Quais são as duas partes de um algoritmo recursivo e o que eles fazem?
+R: Base de Recursão: Que resolve os problemas triviais diretamente, Passo de Recursão : Que cria uma nova recursão buscando o problema trivial.
 ___
